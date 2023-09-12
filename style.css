@@ -42,7 +42,7 @@ div:nth-of-type(3) p {
 	background-color: hotpink;
 }
 
-div:nth-last-of-type(2) {
+div:nth-of-type(3) p:nth-of-type(2) {
     border: 7px solid rgb(255, 255, 255);
 }
 
